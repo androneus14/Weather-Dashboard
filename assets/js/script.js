@@ -89,7 +89,7 @@ var displayRenderedForecast = function (weatherData2) {
 
 
     // Create for loop to get future weather conditions
-    for (var i = 1; i < 5; i++) {
+    for (var i = 1; i < 6; i++) {
         var fiveDayTime = moment.unix(weatherData2[i].dt);
         var fiveDayDate = weatherData2[i].temp.day;
         var fiveDayWeatherIcon = weatherData2[i].weather[0].icon;
@@ -161,7 +161,7 @@ var formSubmitHandler = function (event) {
     }
 };
 
-//
+// Past search button handler
 var historyBtnHandler = function (event) {
     var cityHistory = event.target.getAttribute('city-history');
     if (cityHistory) {
