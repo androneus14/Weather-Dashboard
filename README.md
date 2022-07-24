@@ -10,6 +10,7 @@ Use the OpenWeather One Call API to retrieve weather data for cities. Read throu
 - [Acceptance Criteria](#acceptance-criteria)
 - [Screenshots](#screenshots)
 - [Technology](#technology)
+- [Struggles](#struggles)
 - [Links](#links)
 
 ## User Story
@@ -34,6 +35,10 @@ Use the OpenWeather One Call API to retrieve weather data for cities. Read throu
 
 ## Screenshots
 
+![Screenshot 1](https://user-images.githubusercontent.com/98381243/180639895-69cad298-7d27-4131-85fc-776ff5cc1232.png)
+
+![Screenshot 2](https://user-images.githubusercontent.com/98381243/180639900-462dc6ac-3696-4e9c-b795-218e0a72216e.png)
+
 ## Technology
 
 1. HTML
@@ -41,7 +46,12 @@ Use the OpenWeather One Call API to retrieve weather data for cities. Read throu
 3. JavaScript
 4. OpenWeather API
 
+## Struggles
+
+Not sure where I went wrong but I couldn't get the previous searches to create a list or create the buttons.
+
 ## Links
 
 Email: andynguyen_3@hotmail.com <br />
 Github: https://github.com/androneus14 <br />
+Deployed Application: https://androneus14.github.io/Weather-Dashboard/ <br />
